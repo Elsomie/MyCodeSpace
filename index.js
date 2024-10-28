@@ -54,3 +54,6 @@ console.log(`My name is ${name} and I am ${age}`);
 const hello = `My name is ${name} and I am ${age}`;
 
 console.log(hello);
+
+const myCodeName = 'Code Space';
+console.log(myCodeName)
